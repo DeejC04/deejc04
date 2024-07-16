@@ -1,5 +1,5 @@
 # About Me
-Hi! I'm Dana (Deej) Cabral. I'm currently a computer science freshman at ASU.
+Hi! I'm Dana (Deej) Cabral. I'm currently a computer science student at ASU.
 
 
 ## LinkedIn:
